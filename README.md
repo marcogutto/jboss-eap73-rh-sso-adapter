@@ -1,0 +1,1 @@
+# jboss-eap73-rh-sso-adapter
